@@ -31,55 +31,31 @@
 
 ---
 
-<div align="center">
-
-## ✨ ABOUT ME • `ANGEL-NOORI`
-
-</div>
-
-<img align="right" width="215" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png" alt="Angel-noori character"/>
-
-```yaml
-name: Sehrish Noor
-github: Angel-noori
-role: Full Stack Developer
-
-focus:
-  - Website Development
-  - Software Development
-  - Web App Development
-
-developer_style:
-  - Modern UI
-  - Clean Code
-  - Responsive Design
-  - Automation
-  - Creative Technology
-
-languages:
-  - Urdu
-  - English
-  - Hindi
-```
+<div align="center"><img src="./assets/about_me_neon.gif" width="100%" alt="About Angel-noori animated neon panel" /></div>
 
 > 💚 **I turn ideas into modern digital experiences.**  
-> ⚡ Websites, web apps, desktop tools, automation and useful software are my playground.  
-> 🎨 I also enjoy graphic design, image manipulation, photography and creative editing.  
+> ⚡ I enjoy building **websites, web apps, desktop tools, automation systems and useful software**.  
+> 🎨 I also enjoy **graphic design, image manipulation, photography and creative editing**.  
 > 🧠 Great development is a mix of **logic + creativity + clean presentation**.
 
-<br clear="right"/>
+<div align="center">
+<img src="https://img.shields.io/badge/SEHRISH_NOOR-00E676?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/ANGEL--NOORI-00B8D4?style=for-the-badge&logo=codeberg&logoColor=white" />
+<img src="https://img.shields.io/badge/SHE%2FHER-FF2D95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/URDU_%E2%80%A2_ENGLISH_%E2%80%A2_HINDI-8A2BE2?style=for-the-badge" />
+</div>
 
 ---
 
 <div align="center">
-
-## 🚀 WHAT I CREATE
-
+<img src="./assets/what_i_create_neon.gif" width="100%" alt="What I create animated neon 3D cards" />
+<br/>
 <img src="https://img.shields.io/badge/%F0%9F%8C%90_WEBSITE_DEVELOPMENT-00E676?style=for-the-badge" />
 <img src="https://img.shields.io/badge/%E2%9A%A1_WEB_APP_DEVELOPMENT-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/%F0%9F%92%BB_SOFTWARE_DEVELOPMENT-00B8D4?style=for-the-badge" />
-
 </div>
+
+<details><summary><b>✨ Open detailed development matrix</b></summary>
 
 | 🌐 **Website Development** | ⚡ **Web App Development** | 💻 **Software Development** |
 |:---:|:---:|:---:|
@@ -87,47 +63,39 @@ languages:
 | Landing Pages | Authentication Systems | Automation Tools |
 | Portfolio Websites | APIs & Integrations | GUI Applications |
 | Admin Panels | Database-Powered Apps | Productivity Software |
-| Modern UI/UX | Dynamic Web Systems | Custom Workflows |
+| Modern UI / UX | Dynamic Web Systems | Custom Workflows |
+
+</details>
 
 ---
 
 <div align="center">
-
-## 🧩 TECH UNIVERSE
-
-### 💚 Programming • Frontend • Backend • Databases • Tools
-
+<img src="./assets/tech_universe_neon.gif" width="100%" alt="Tech universe animated neon panel" />
+<br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,bootstrap,flask,django,nodejs,mysql,postgres,mongodb,git,github,docker,ubuntu,vscode&perline=9&theme=dark" alt="Tech stack" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/MYSQL-00B8D4?style=for-the-badge&logo=mysql&logoColor=white" />
-
 <br/>
-
 <img src="https://img.shields.io/badge/FLASK-111111?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/DJANGO-00A86B?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
 </div>
 
 ---
 
-<div align="center">
+<div align="center"><img src="./assets/creative_powers_neon.gif" width="100%" alt="Creative and development powers animated neon cards" /></div>
 
-## 🎨 CREATIVE + DEVELOPMENT POWERS
+<details><summary><b>🎨 Open complete creative + development matrix</b></summary>
 
-</div>
-
-| 💚 Frontend | 💙 Backend | 💜 Web Apps | 🩷 Creative |
+| 💚 **Frontend** | 💙 **Backend** | 💜 **Web Apps** | 🩷 **Creative** |
 |---|---|---|---|
 | Responsive UI | APIs | Dashboards | Graphic Design |
 | HTML / CSS / JS | Python | Authentication | Image Manipulation |
@@ -135,74 +103,57 @@ languages:
 | Interactive Layouts | Node.js | Integrations | Video Editing |
 | Modern UX | MySQL / PostgreSQL | Automation | GUI Design |
 
+</details>
+
 ---
 
 <div align="center">
-
-## 🎯 DEVELOPMENT MODE
+## 🎯 `DEVELOPMENT MODE`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=00B8D4&center=true&vCenter=true&width=950&lines=%F0%9F%8C%90+Websites+%E2%86%92+Modern+%E2%80%A2+Responsive+%E2%80%A2+Fast;%E2%9A%A1+Web+Apps+%E2%86%92+Dynamic+%E2%80%A2+Useful+%E2%80%A2+Database+Powered;%F0%9F%92%BB+Software+%E2%86%92+Desktop+%E2%80%A2+Automation+%E2%80%A2+GUI;%F0%9F%94%8C+APIs+%E2%86%92+Integration+%E2%80%A2+Backend+%E2%80%A2+Data;%F0%9F%8E%A8+Design+%E2%86%92+Creative+%E2%80%A2+Clean+%E2%80%A2+Beautiful" alt="Development focus" />
-
 </div>
 
 ---
 
 <div align="center">
-
-## 📊 GITHUB COMMAND CENTER
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Angel-noori&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00D9FF&text_color=E6EDF3&ring_color=FF2D95" alt="Angel-noori GitHub stats"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-noori&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2D95&text_color=E6EDF3" alt="Top languages"/>
-
+<img src="./assets/github_command_neon.gif" width="100%" alt="GitHub command center animated neon panel" />
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=Angel-noori&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=FF2D95&currStreakLabel=00D9FF&sideLabels=E6EDF3&dates=8B949E" alt="GitHub streak"/>
-
+<img src="./assets/github-metrics.svg" width="100%" alt="Angel-noori locally generated GitHub stats" />
 </div>
+
+> **Reliable stats fix:** this card is generated **inside your own repository** by GitHub Actions and saved as a local SVG. It no longer relies on the public `github-readme-stats.vercel.app` service.
 
 ---
 
 <div align="center">
 
-## 🏆 ACHIEVEMENTS
+## 🏆 `ANGEL-NOORI • GITHUB TROPHIES`
 
-<img src="https://github-profile-trophy.vercel.app/?username=Angel-noori&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="Angel-noori GitHub trophies"/>
+<img src="./assets/github-trophies.svg" width="100%" alt="Angel-noori locally generated GitHub trophy matrix" />
 
 </div>
+
+> Trophy ranks update from your current public GitHub profile data: repositories, stars, languages, followers, forks and account age.
 
 ---
 
 <div align="center">
 
-## 📈 CONTRIBUTION ENERGY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-noori&bg_color=0D1117&color=00FF9C&line=00D9FF&point=FF2D95&area=true&area_color=00B894&hide_border=true&custom_title=Angel-noori%20Contribution%20Galaxy" width="100%" alt="Contribution graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 DEVELOPER IDENTITY
+## 💫 `DEVELOPER IDENTITY`
 
 <img src="https://img.shields.io/badge/CLEAN_CODE-00E676?style=for-the-badge&logo=codefactor&logoColor=black" />
 <img src="https://img.shields.io/badge/PROBLEM_SOLVING-00B8D4?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/CREATIVE_UI-FF2D95?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/AUTOMATION-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-
 <br/><br/>
-
-> **Think → Design → Build → Test → Improve → Repeat** 🚀
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&duration=2000&pause=700&color=00E676&center=true&vCenter=true&width=850&lines=THINK+%E2%86%92+DESIGN+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+IMPROVE+%E2%86%92+REPEAT+%F0%9F%9A%80" alt="Developer workflow" />
 </div>
 
 ---
 
 <div align="center">
 
-## 🌟 PERSONAL SIDE
+## 🌟 `PERSONAL SIDE`
 
 <img src="https://img.shields.io/badge/%F0%9F%91%91_OFFICIAL_ACCOUNT-111111?style=for-the-badge" />
 <img src="https://img.shields.io/badge/%F0%9F%92%96_MOM_%26_DAD_ARE_MY_LIFE-FF2D95?style=for-the-badge" />
@@ -210,7 +161,6 @@ languages:
 <img src="https://img.shields.io/badge/%F0%9F%8D%95_PIZZA_LOVER-F39C12?style=for-the-badge" />
 <img src="https://img.shields.io/badge/%F0%9F%8E%82_WISH_ME_ON_10_DEC-00B8D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SHE%2FHER-00E676?style=for-the-badge" />
-<img src="https://img.shields.io/badge/URDU_%E2%80%A2_ENGLISH_%E2%80%A2_HINDI-111111?style=for-the-badge" />
 
 </div>
 
@@ -218,20 +168,15 @@ languages:
 
 <div align="center">
 
-## 🤝 LET'S BUILD SOMETHING AMAZING
+## 🤝 `LET'S BUILD SOMETHING AMAZING`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&weight=700&size=27&duration=3000&pause=850&color=FF2D95&center=true&vCenter=true&width=900&lines=Have+an+idea%3F+Let's+turn+it+into+reality+%E2%9C%A8;Open+to+creative+projects+%26+collaborations+%F0%9F%92%9A;Please+Support+Me+and+Follow+%F0%9F%92%99" alt="Let's connect" />
-
 <br/>
-
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-F72585?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fariha_nazii/)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-00B8D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devia_angel)
 [![GitHub](https://img.shields.io/badge/FOLLOW_ON_GITHUB-00E676?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Angel-noori)
-
 <br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,35:00B8D4,68:8A2BE2,100:FF2D95&height=135&section=footer&animation=fadeIn" width="100%" />
-
 ### 💚 `CODE` • 💙 `CREATE` • 💜 `LEARN` • 🩷 `IMPROVE`
 
 </div>
