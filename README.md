@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/neon_portfolio_hero.gif" width="100%" alt="Sehrish Noor — Full Stack Developer animated neon portfolio hero" />
+<img src="./assets/Angel.gif" width="100%" alt="Sehrish Noor — Full Stack Developer animated neon portfolio hero" />
 
 <br/>
 
