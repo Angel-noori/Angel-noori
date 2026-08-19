@@ -17,7 +17,7 @@
 <br/>
 
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059348168)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-00B8D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devia_angel)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-00B8D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angelnoor_op)
 [![Support](https://img.shields.io/badge/PLEASE_SUPPORT_ME_%26_FOLLOW-00E676?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/Angel-noori)
 
 <br/>
