@@ -16,7 +16,7 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-F72585?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fariha_nazii/)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059348168)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-00B8D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devia_angel)
 [![Support](https://img.shields.io/badge/PLEASE_SUPPORT_ME_%26_FOLLOW-00E676?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/Angel-noori)
 
@@ -236,7 +236,7 @@ languages:
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-F72585?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fariha_nazii/)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059348168)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-00B8D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devia_angel)
 [![GitHub](https://img.shields.io/badge/FOLLOW_ON_GITHUB-00E676?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Angel-noori)
 

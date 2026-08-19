@@ -1,43 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270">
 <defs>
-<linearGradient id="g2" x1="0" x2="1">
-<stop offset="0%" stop-color="#00ff9c"/>
-<stop offset="35%" stop-color="#00d9ff"/>
-<stop offset="70%" stop-color="#9b5cff"/>
-<stop offset="100%" stop-color="#ff2d95"/>
-</linearGradient>
+  <linearGradient id="g2" x1="0" x2="1">
+    <stop offset="0%" stop-color="#00ff9c"/>
+    <stop offset="35%" stop-color="#00d9ff"/>
+    <stop offset="70%" stop-color="#9b5cff"/>
+    <stop offset="100%" stop-color="#ff2d95"/>
+  </linearGradient>
 </defs>
-<rect width="1100" height="330" rx="28" fill="#081018" stroke="url(#g2)" stroke-width="3"/>
-<text x="42" y="54" fill="url(#g2)" font-family="Arial" font-size="32" font-weight="800">AIMAN NOOR • TOP LANGUAGES & TECH STACK</text>
-<text x="42" y="82" fill="#90a9ba" font-family="Arial" font-size="15">A colorful local replacement for the broken “Top Langs” card</text>
+<rect width="1100" height="270" rx="26" fill="#071018" stroke="url(#g2)" stroke-width="3"/>
+<text x="40" y="48" fill="url(#g2)" font-family="Arial" font-size="32" font-weight="800">AIMAN NOOR • TOP LANGUAGES</text>
 
-<rect x="42" y="118" width="1016" height="34" rx="12" fill="#0e1720"/>
-<rect x="42" y="118" width="268" height="34" rx="12" fill="#00ff9c"/>
-<rect x="310" y="118" width="220" height="34" rx="0" fill="#00d9ff"/>
-<rect x="530" y="118" width="190" height="34" rx="0" fill="#9b5cff"/>
-<rect x="720" y="118" width="160" height="34" rx="0" fill="#ff2d95"/>
-<rect x="880" y="118" width="178" height="34" rx="12" fill="#ffb347"/>
+<rect x="40" y="84" width="1020" height="28" rx="12" fill="#0f1821"/>
+<rect x="40" y="84" width="285" height="28" rx="12" fill="#00ff9c"/>
+<rect x="325" y="84" width="220" height="28" fill="#00d9ff"/>
+<rect x="545" y="84" width="190" height="28" fill="#9b5cff"/>
+<rect x="735" y="84" width="155" height="28" fill="#ff2d95"/>
+<rect x="890" y="84" width="170" height="28" rx="12" fill="#ffb347"/>
 
-<text x="42" y="183" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">Python</text>
-<text x="210" y="183" fill="#00ff9c" font-family="Arial" font-size="18" font-weight="700">26%</text>
+<text x="56" y="152" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">Python</text>
+<text x="225" y="152" fill="#00ff9c" font-family="Arial" font-size="18" font-weight="700">28%</text>
+<text x="56" y="187" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">JavaScript</text>
+<text x="225" y="187" fill="#00d9ff" font-family="Arial" font-size="18" font-weight="700">21%</text>
+<text x="56" y="222" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">C++</text>
+<text x="225" y="222" fill="#9b5cff" font-family="Arial" font-size="18" font-weight="700">19%</text>
 
-<text x="42" y="218" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">JavaScript</text>
-<text x="210" y="218" fill="#00d9ff" font-family="Arial" font-size="18" font-weight="700">21%</text>
+<text x="385" y="152" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">HTML / CSS</text>
+<text x="568" y="152" fill="#ff2d95" font-family="Arial" font-size="18" font-weight="700">15%</text>
+<text x="385" y="187" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">MySQL</text>
+<text x="568" y="187" fill="#ffb347" font-family="Arial" font-size="18" font-weight="700">11%</text>
+<text x="385" y="222" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">Other</text>
+<text x="568" y="222" fill="#95abbb" font-family="Arial" font-size="18" font-weight="700">6%</text>
 
-<text x="42" y="253" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">C++</text>
-<text x="210" y="253" fill="#9b5cff" font-family="Arial" font-size="18" font-weight="700">18%</text>
-
-<text x="340" y="183" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">HTML / CSS</text>
-<text x="548" y="183" fill="#ff2d95" font-family="Arial" font-size="18" font-weight="700">15%</text>
-
-<text x="340" y="218" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">MySQL</text>
-<text x="548" y="218" fill="#ffb347" font-family="Arial" font-size="18" font-weight="700">12%</text>
-
-<text x="340" y="253" fill="#eef7fb" font-family="Arial" font-size="20" font-weight="700">Other</text>
-<text x="548" y="253" fill="#9cb0bd" font-family="Arial" font-size="18" font-weight="700">8%</text>
-
-<text x="704" y="182" fill="#00ff9c" font-family="Arial" font-size="16" font-weight="700">Focus Stack</text>
-<text x="704" y="209" fill="#d4e2eb" font-family="Arial" font-size="16">Python • JavaScript • C++</text>
-<text x="704" y="233" fill="#d4e2eb" font-family="Arial" font-size="16">HTML5 • CSS3 • MySQL</text>
-<text x="704" y="257" fill="#d4e2eb" font-family="Arial" font-size="16">Flask • Django • React • Git</text>
+<text x="760" y="156" fill="#00ff9c" font-family="Arial" font-size="17" font-weight="700">STACK</text>
+<text x="760" y="184" fill="#d8e4ec" font-family="Arial" font-size="16">Python • JavaScript • C++</text>
+<text x="760" y="209" fill="#d8e4ec" font-family="Arial" font-size="16">HTML5 • CSS3 • MySQL</text>
+<text x="760" y="234" fill="#d8e4ec" font-family="Arial" font-size="16">Flask • Django • React • Git</text>
 </svg>
