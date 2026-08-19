@@ -237,7 +237,7 @@ languages:
 <br/>
 
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059348168)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-00B8D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devia_angel)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-00B8D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angelnoor_op)
 [![GitHub](https://img.shields.io/badge/FOLLOW_ON_GITHUB-00E676?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Angel-noori)
 
 <br/><br/>
