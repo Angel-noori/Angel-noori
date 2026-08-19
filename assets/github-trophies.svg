@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430">
+<defs>
+<linearGradient id="g3" x1="0" x2="1">
+<stop offset="0%" stop-color="#ffd861"/>
+<stop offset="25%" stop-color="#00ff9c"/>
+<stop offset="50%" stop-color="#00d9ff"/>
+<stop offset="75%" stop-color="#9b5cff"/>
+<stop offset="100%" stop-color="#ff2d95"/>
+</linearGradient>
+</defs>
+<rect width="1100" height="430" rx="28" fill="#081018" stroke="url(#g3)" stroke-width="3"/>
+<text x="42" y="56" fill="url(#g3)" font-family="Arial" font-size="32" font-weight="800">AIMAN NOOR • GITHUB TROPHIES</text>
+<text x="42" y="84" fill="#91abbb" font-family="Arial" font-size="15">Custom local trophy panel with your visible GitHub achievements</text>
+
+<rect x="42" y="118" width="480" height="260" rx="24" fill="#0b1720" stroke="#00ff9c" stroke-width="2"/>
+<text x="70" y="150" fill="#00ff9c" font-family="Arial" font-size="24" font-weight="800">Earned Achievements</text>
+<image href="./quickdraw.png" x="80" y="180" width="128" height="128"/>
+<text x="95" y="330" fill="#f5fbff" font-family="Arial" font-size="24" font-weight="700">Quickdraw</text>
+<text x="103" y="356" fill="#ffb347" font-family="Arial" font-size="15" font-weight="700">GitHub achievement</text>
+
+<image href="./pull-shark.png" x="280" y="180" width="128" height="128"/>
+<text x="300" y="330" fill="#f5fbff" font-family="Arial" font-size="24" font-weight="700">Pull Shark</text>
+<text x="318" y="356" fill="#ffb347" font-family="Arial" font-size="15" font-weight="700">Level x2</text>
+
+<rect x="560" y="118" width="498" height="260" rx="24" fill="#0b1720" stroke="#00d9ff" stroke-width="2"/>
+<text x="588" y="150" fill="#00d9ff" font-family="Arial" font-size="24" font-weight="800">Trophy Highlights</text>
+<text x="590" y="192" fill="#f1f8fc" font-family="Arial" font-size="20" font-weight="700">🏆 Quickdraw</text>
+<text x="590" y="221" fill="#a8bdca" font-family="Arial" font-size="16">Fast pull request or issue activity achievement</text>
+
+<text x="590" y="268" fill="#f1f8fc" font-family="Arial" font-size="20" font-weight="700">🦈 Pull Shark ×2</text>
+<text x="590" y="297" fill="#a8bdca" font-family="Arial" font-size="16">Merged pull requests achievement with level indicator x2</text>
+
+<text x="590" y="342" fill="#f1f8fc" font-family="Arial" font-size="19" font-weight="700">✨ Profile Awards Snapshot</text>
+<text x="590" y="369" fill="#a8bdca" font-family="Arial" font-size="16">Made especially for your README so it never breaks again</text>
+</svg>

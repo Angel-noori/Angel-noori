@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Angel.gif" width="100%" alt="Sehrish Noor — Full Stack Developer animated neon portfolio hero" />
+<img src="./assets/Angel.gif" width="100%" alt="Aiman Noor — Full Stack Developer animated neon portfolio hero" />
 
 <br/>
 
@@ -40,7 +40,7 @@
 <img align="right" width="215" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png" alt="Angel-noori character"/>
 
 ```yaml
-name: Sehrish Noor
+name: Aiman Noor
 github: Angel-noori
 role: Full Stack Developer
 
@@ -151,9 +151,11 @@ languages:
 
 ## 📊 GITHUB COMMAND CENTER
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Angel-noori&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00D9FF&text_color=E6EDF3&ring_color=FF2D95" alt="Angel-noori GitHub stats"/>
+<img src="./assets/github-stats.svg" width="100%" alt="Aiman Noor GitHub stats" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-noori&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2D95&text_color=E6EDF3" alt="Top languages"/>
+<br/>
+
+<img src="./assets/top-languages.svg" width="100%" alt="Aiman Noor Top languages" />
 
 <br/>
 
@@ -165,9 +167,19 @@ languages:
 
 <div align="center">
 
-## 🏆 ACHIEVEMENTS
+## 🏆 ACHIEVEMENTS & TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=Angel-noori&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="Angel-noori GitHub trophies"/>
+<img src="./assets/github-trophies.svg" width="100%" alt="Aiman Noor GitHub trophies panel" />
+
+<br/><br/>
+
+<img src="./assets/quickdraw.png" width="96" alt="Quickdraw GitHub achievement" />
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/pull-shark.png" width="96" alt="Pull Shark GitHub achievement" />
+
+<br/>
+
+**Quickdraw** • **Pull Shark ×2**
 
 </div>
 
@@ -177,7 +189,7 @@ languages:
 
 ## 📈 CONTRIBUTION ENERGY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-noori&bg_color=0D1117&color=00FF9C&line=00D9FF&point=FF2D95&area=true&area_color=00B894&hide_border=true&custom_title=Angel-noori%20Contribution%20Galaxy" width="100%" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-noori&bg_color=0D1117&color=00FF9C&line=00D9FF&point=FF2D95&area=true&area_color=00B894&hide_border=true&custom_title=Angel-noori%20Contribution%20Galaxy" width="100%" alt="Contribution graph" />
 
 </div>
 
